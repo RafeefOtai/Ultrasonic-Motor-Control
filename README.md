@@ -13,7 +13,7 @@
 
 **Circuit:**
 
-![Simulation circuit](./assets/simulation-circuit.png)
+![Simulation circuit](simulation-circuit.png)
 
 **Tinkercad project:** [4-Motor Direction Control](https://www.tinkercad.com/things/j2X1YDF09co-4-motordirectioncontrol?sharecode=woP2TpF1_6kShBDzG9e9QKXvusG61zbplJWwiBv_Rbw)
 
@@ -26,7 +26,7 @@
 
 **Circuit:**
 
-![Hardware circuit](./assets/hardware-circuit.jpg)
+![Hardware circuit](hardware-circuit.jpg)
 
 
 **Demo video:** [Google Drive link](https://drive.google.com/file/d/1cq_KWtCS-gV-_ofqcZbaVpP74zWAxmql/view?usp=drivesdk)
